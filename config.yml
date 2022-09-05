@@ -1,0 +1,64 @@
+baseURL: http://slackerethos.com/
+languageCode: en-us
+title: Slacker Ethos
+theme: PaperMod
+paginate: 5
+enableRobotsTXT: true
+googleAnalytics: G-53845PPRLP
+
+minify:
+  disableXML: true
+  minifyOutput: true
+
+params:
+  env: production # to enable google analytics, opengraph, twitter-cards and schema.
+  title: Slacker Ethos
+  description: "On unburdened living and doing work on my own terms"
+  keywords: [Blog, Portfolio, PaperMod]
+  author: Kosi
+  DateFormat: "January 2, 2006"
+  defaultTheme: auto # dark, light
+  disableThemeToggle: true  
+  ShowReadingTime: false
+  ShowShareButtons: true
+  ShareButtons: ["twitter", "reddit", "facebook"]
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: true
+  ShowCodeCopyButtons: false
+  ShowWordCount: false
+  ShowRssButtonInSectionTermList: true
+  UseHugoToc: true
+  disableSpecial1stPost: false
+  disableScrollToTop: false
+  comments: false
+  hidemeta: false
+  showtoc: false
+  tocopen: false
+
+  homeInfoParams:
+    Title: "Slacker Ethos &#x1F4A1"
+    Content: "On unburdened living and doing work on my own terms"
+
+  socialIcons:
+    - name: twitter
+      url: "https://twitter.com/artofease"
+
+  analytics:
+    google:
+      SiteVerificationTag: "XYZabc"
+
+  cover:
+    hidden: false # hide everywhere but not in structured data
+    hiddenInList: true # hide on list pages and home
+    hiddenInSingle: true # hide on single page
+
+menu:
+  main:
+    - identifier: tags
+      name: tags
+      url: /tags/
+      weight: 10
+    - identifier: about
+      name: about
+      url: /about/  
+      weight: 20
