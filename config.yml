@@ -1,6 +1,6 @@
 baseURL: http://slackerethos.com/
 languageCode: en-us
-title: Slacker Ethos
+title: The Slacker Ethos
 theme: PaperMod
 paginate: 5
 enableRobotsTXT: true
@@ -12,8 +12,8 @@ minify:
 
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
-  title: Slacker Ethos
-  description: "On unburdened living and doing work on my own terms"
+  title: The Slacker Ethos
+  description: "On unburdened living, funemployment, and the virtue of laziness"
   keywords: [Blog, Portfolio, PaperMod]
   author: Kosi
   DateFormat: "January 2, 2006"
@@ -36,8 +36,8 @@ params:
   tocopen: false
 
   homeInfoParams:
-    Title: "Slacker Ethos &#x1F4A1"
-    Content: "On unburdened living and doing work on my own terms"
+    Title: "The Slacker Ethos &#x1F4A1;"
+    Content: "On unburdened living, funemployment, and the virtue of laziness"
 
   socialIcons:
     - name: twitter
