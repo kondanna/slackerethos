@@ -13,12 +13,12 @@ minify:
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
   title: The Slacker Ethos
-  description: "On unburdened living, funemployment, and the virtue of laziness"
+  description: "On simple living, funemployment, and the virtue of laziness"
   keywords: [Blog, Portfolio, PaperMod]
   author: Kosi
   DateFormat: "January 2, 2006"
   defaultTheme: auto # dark, light
-  disableThemeToggle: true  
+  disableThemeToggle: false
   ShowReadingTime: false
   ShowShareButtons: true
   ShareButtons: ["twitter", "reddit", "facebook"]
@@ -37,7 +37,10 @@ params:
 
   homeInfoParams:
     Title: "The Slacker Ethos &#x1F4A1;"
-    Content: "On unburdened living, funemployment, and the virtue of laziness"
+    Content: |
+      "For instance, on the planet Earth, man had always assumed that he was more intelligent than dolphins because he had achieved so much — the wheel, New York, wars and so on — whilst all the dolphins had ever done was muck about in the water having a good time. But conversely, the dolphins had always believed that they were far more intelligent than man — for precisely the same reasons.”
+      
+      &#x1F42C;  *The Hitchhiker's Guide to the Galaxy* by Douglas Adams
 
   socialIcons:
     - name: twitter
@@ -60,5 +63,5 @@ menu:
       weight: 10
     - identifier: about
       name: about
-      url: /about/  
+      url: /about/
       weight: 20
