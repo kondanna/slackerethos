@@ -1,5 +1,5 @@
 ---
-title: Start Here
+title: About
 author: ""
 ---
 > How happily we live, free from busy-ness
@@ -22,15 +22,15 @@ Welcome to The Slacker Ethos - a treatise on what I call *effective laziness*.
 
 ### The Four Foundations of the Slacker Ethos:
 
-#### 1. Living a low maintenance lifestyle
+1. Living a low maintenance lifestyle
 
 Being cheap to maintain saves money and time. Decide what level of lifestyle is "good enough" and stocking with it; today's wants are tomorrow's obligations.
 
-#### 2. Investing with discipline
+2. Investing with discipline
 
 Money that is saved and invested eventually grows into a substantial amount.
 
-#### 3. [Funemployment](https://www.investopedia.com/terms/f/funemployment.asp) - doing work that doesn't feel like work
+3. [Funemployment](https://www.investopedia.com/terms/f/funemployment.asp) - doing work that doesn't feel like work
 
 Living simply and having money buys us more time to do engaging and meaningful things. Like this dude:
 
@@ -38,7 +38,7 @@ Living simply and having money buys us more time to do engaging and meaningful t
 >
 **&mdash; Pablo Picasso**
 
-#### 4. Learning to enjoy the mundane moments
+4. Learning to enjoy the mundane moments
 
 Much of our time is spent doing mundane tasks, like waiting in line, driving, or doing the laundry. Instead of being in a rush, we can radiate feelings of friendliness into the present moment.
 
