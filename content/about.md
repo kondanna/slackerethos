@@ -18,21 +18,21 @@ Hi there &#x1F44B;. My name is Kosi. I quit my career at age 33 and since then I
 
 ---
 
-Welcome to The Slacker Ethos - a treatise on what I call *effective laziness*.
+Welcome to The Slacker Ethos - a treatise on *effective laziness*.
 
 ### The Four Foundations of the Slacker Ethos:
 
-1. Living a low maintenance lifestyle
+1. Being low maintenance
 
-Being cheap to maintain saves money and time. Decide what level of lifestyle is "good enough" and stocking with it; today's wants are tomorrow's obligations.
+Being cheap to maintain saves money and time. Decide what level of lifestyle is "good enough" and stick with it; today's wants are tomorrow's obligations.
 
 2. Investing with discipline
 
-Money that is saved and invested eventually grows into a substantial amount.
+Money that is saved and invested eventually grows into a life-changing amount.
 
 3. [Funemployment](https://www.investopedia.com/terms/f/funemployment.asp) - doing work that doesn't feel like work
 
-Living simply and having money buys us more time to do engaging and meaningful things. Like this dude:
+Living simply and having money buys us more time to do engaging and meaningful things. Like this guy:
 
 > I'd like to live as a poor man with lots of money.
 >
