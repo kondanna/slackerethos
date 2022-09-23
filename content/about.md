@@ -2,15 +2,6 @@
 title: About
 author: ""
 ---
-> How happily we live, free from busy-ness
->
-> Among busy people, free from busy-ness we dwell.
->
-> How happily we live, we who have nothing.
->
-> We will feed on rapture like the Radiant gods.
->
-**Dhammapada 199-200**
 
 ![Kosi](/profile.jpg)
 
@@ -30,7 +21,7 @@ Being cheap to maintain saves money and time. Decide what level of lifestyle is 
 
 Money that is saved and invested eventually grows into a life-changing amount.
 
-3. [Funemployment](https://www.investopedia.com/terms/f/funemployment.asp) - doing work that doesn't feel like work
+3. Funemployment - doing work that doesn't feel like work
 
 Living simply and having money buys us more time to do engaging and meaningful things. Like this guy:
 
