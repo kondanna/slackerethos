@@ -39,6 +39,12 @@ The overall theme is to live richly by spending less, stressing less and explori
 
 I hope you, too, can find freedom and tranquility in such an approach. 
 
-> Laziness in doing stupid things can be a great virtue.
+> How happily we live, free from busy-ness
 >
-**&mdash; "Chang" in *Lost Horizon* by James Hilton**
+> Among busy people, free from busy-ness we dwell.
+>
+> How happily we live, we who have nothing.
+>
+> We will feed on rapture like the Radiant gods.
+>
+**Dhammapada 199-200**
