@@ -7,35 +7,49 @@ author: ""
 
 Hi there &#x1F44B;. My name is Kosi, and welcome to Slacker Ethos. 
 
-I've been living in beautiful Transylvania since quitting my career at age 33. Day-to-day I work on being a better writer, experiment with cooking recipes, take frequent walks with my partner, and explore ways to do creative work that generate online income. 
+I've been living in beautiful Transylvania since quitting my day job at age 33. On a typical day I write stuff, experiment with new recipes, and take walks with my boo &#10084;.
 
-I would describe myself as strategically lazy (a *slacker*), and this attitude (or *ethos*) has always driven my decisions. 
+A *slacker* is someone who chooses ease - a state of well-being - by living a low-stress lifestyle and doing work on their own terms. This attitude, or *ethos*, has been the driving force behind my decisions.
 
 ---
 
-### The Four Foundations of the Slacker Ethos: 
+### The Four Tenets of the Slacker Ethos
 
-1. Being low maintenance 
+1. Mindful spending
 
-Living cheaply can save money and time - and more importantly, it reduces stress. Call me crazy, but finding of new ways to lower expenses can be a creative endeavor on its own. 
+A good practice is to spend money (and time) only on things you value and as little as possible on the things you don't.
 
-2. Investing consistently 
+The Big Three: housing, transport, and food tend to be life's biggest expenses. 
 
-When savings are invested, it eventually grows into a life-changing amount. Life-changing because it buys us time to do what we want. 
+During my job years I rented a reasonably-sized place, drove a used but reliable car, and learned to make food I enjoyed eating. Living this way has saved me countless time and energy.
 
-3. Funemployment - doing work that doesn't feel like work 
+It took me many years to figure out what I did enjoy (slow travel), so that's where the majority of my spending goes now.
 
-Living simply combined with life-changing money transforms our perspective on work to something we do to survive to something we do to feel creative. 
+2. Growing wealth through investing  
 
-(This is something that I suspect will be a lifelong work-in-progress.)
+Investing scared me at first, but the alternative - not investing, is scarier.
+
+The power of compounding is such that over a lifetime, my investments will make me far more money than I'll ever make working. This money exists to provide a margin of safety and to buy me time to do what I really want. 
+
+Wealth is an inevitable side effect of contentment and disciplined investing.
+
+3. Funemployment - doing work that doesn't feel like work&trade; 
+
+I've always been surrounded by people who hated their jobs. It took me a long time to realize not all work is drudgery, and not all effort is unpleasant. 
+
+It's a luxury to be able to view work as something we choose to do to feel creative, not something we have to do to survive. 
+
+To me, the most interesting kind of work is content creation, because it feels like making something from nothing, and I can do it at my own pace and on my own schedule. 
 
 4. Learning to enjoy the mundane moments 
 
-Much of our time is spent doing mundane and unavoidable tasks, like waiting in line, driving, or doing the laundry. Instead of being in a rush, we can radiate feelings of friendliness into the present moment. 
+Much of our time is spent doing mundane and unavoidable tasks, like waiting in line, driving, or doing the laundry. 
+
+Instead of being in a rush, we can radiate feelings of friendliness into the present moment. 
+
+I don't consider myself a spiritual person (whatever that means), but I do believe we humans have the power to generate and sustain feelings of joy and peace, even in the face of boredom and discomfort. 
 
 ---
-
-The overall theme is to live richly by spending less, stressing less and exploring more. 
 
 I hope you, too, can find freedom and tranquility in such an approach. 
 
