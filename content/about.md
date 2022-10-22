@@ -13,7 +13,7 @@ A *slacker* is someone who chooses ease - a state of well-being - by living a lo
 
 ---
 
-### The Four Tenets of the Slacker Ethos
+### The Four Foundations of the Slacker Ethos
 
 1. Mindful spending
 
@@ -27,19 +27,19 @@ It took me many years to figure out what I did enjoy (slow travel), so that's wh
 
 2. Growing wealth through investing  
 
-Investing scared me at first, but the alternative - not investing, is scarier.
+I made a habit of consistently investing my savings. This has allowed me to quit my job after nine years.
 
-The power of compounding is such that over a lifetime, my investments will make me far more money than I'll ever make working. This money exists to provide a margin of safety and to buy me time to do what I really want. 
+My investments have given me two things: a margin of safety and free time to do what I want.
 
-Wealth is an inevitable side effect of contentment and disciplined investing.
+Investing may feel risky at first, but not investing is actually riskier. 
 
 3. Funemployment - doing work that doesn't feel like work&trade; 
 
-I've always been surrounded by people who hated their jobs. It took me a long time to realize not all work is drudgery, and not all effort is unpleasant. 
+It took me a long time to realize not all work is drudgery, and not all effort is unpleasant. 
 
-It's a luxury to be able to view work as something we choose to do to feel creative, not something we have to do to survive. 
+It's a luxury to be able to see work as something we choose to do, not something we have to do to survive. 
 
-To me, the most interesting kind of work is content creation, because it feels like making something from nothing, and I can do it at my own pace and on my own schedule. 
+Right now, I'm focused on content creation, because it feels like making something from nothing, and I can do it on my own schedule. 
 
 4. Learning to enjoy the mundane moments 
 
