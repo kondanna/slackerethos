@@ -5,11 +5,13 @@ author: ""
 
 ![Kosi](/profile.jpg)
 
-Hi there &#x1F44B;. My name is Kosi, and welcome to Slacker Ethos. 
+Hi there &#x1F44B;. 
 
-I've been living in beautiful Transylvania since quitting my day job at age 33. On a typical day I write stuff, experiment with new recipes, and take walks with my boo &#10084;.
+My name is Kosi, and I've been living in beautiful Transylvania since quitting my day job at age 33. 
 
-A *slacker* is someone who chooses ease - a state of well-being - by living a low-stress lifestyle and doing work on their own terms. This attitude, or *ethos*, has been the driving force behind my decisions.
+On a typical day I write stuff, experiment with new recipes, and take walks with my boo &#10084;.
+
+I call myself a *slacker* because I'm not very ambitious, and I can only sustain 3 or 4 hours of real effort a day. Given the option, I usually choose the path that leads to fewer obligations and less stress.
 
 ---
 
