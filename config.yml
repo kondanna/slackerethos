@@ -13,12 +13,12 @@ minify:
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
   title: The Slacker Ethos
-  description: "On simple living, funemployment, and the virtue of laziness"
+  description: "On simplicity, funemployment, and the virtue of laziness"
   keywords: [Blog, Portfolio, PaperMod]
   author: Kosi
   DateFormat: "January 2, 2006"
   defaultTheme: auto # dark, light
-  disableThemeToggle: false
+  disableThemeToggle: true
   ShowReadingTime: false
   ShowShareButtons: true
   ShareButtons: ["twitter", "reddit", "facebook"]
@@ -27,7 +27,7 @@ params:
   ShowCodeCopyButtons: false
   ShowWordCount: false
   ShowRssButtonInSectionTermList: true
-  UseHugoToc: true
+  UseHugoToc: false
   disableSpecial1stPost: false
   disableScrollToTop: false
   comments: false
@@ -53,7 +53,7 @@ params:
   cover:
     hidden: false # hide everywhere but not in structured data
     hiddenInList: true # hide on list pages and home
-    hiddenInSingle: true # hide on single page
+    hiddenInSingle: false # hide on single page
 
 menu:
   main:

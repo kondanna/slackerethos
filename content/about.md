@@ -43,7 +43,7 @@ Right now, I'm focused on content creation, because it feels like making somethi
 
 4. Learning to enjoy the mundane moments 
 
-Much of our time is spent doing mundane and unavoidable tasks, like waiting in line, driving, or doing the laundry. 
+Much of our time is spent doing mundane and unavoidable tasks, like waiting in traffic or doing the laundry. 
 
 Instead of being in a rush, we can radiate feelings of friendliness into the present moment. 
 
@@ -51,14 +51,6 @@ I don't consider myself a spiritual person (whatever that means), but I do belie
 
 ---
 
-I hope you, too, can find freedom and tranquility in such an approach. 
+![Dhammapada](/dhammapada.jpg)
 
-> How happily we live, free from busy-ness
->
-> Among busy people, free from busy-ness we dwell.
->
-> How happily we live, we who have nothing.
->
-> We will feed on rapture like the Radiant gods.
->
-**Dhammapada 199-200**
+I hope you, too, can find freedom and tranquility in such an approach. 
