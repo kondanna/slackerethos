@@ -7,52 +7,56 @@ author: ""
 
 Hi there &#x1F44B;. 
 
-My name is Kosi, and I've been living in beautiful Transylvania since quitting my day job at age 33. 
+My name is Kosi, and welcome to my blog. I call it Slacker Ethos because I hate stressful work and love free time. 
 
-On a typical day I write stuff, experiment with new recipes, and take walks with my boo &#10084;.
+By living like a student and investing as much as possible, I was able to quit my job at age 33. I've been living in beautiful Transylvania ever since. 
 
-I call myself a *slacker* because I'm not very ambitious, and I can only sustain 3 or 4 hours of real effort a day. Given the option, I usually choose the path that leads to fewer obligations and less stress.
+Nowadays I have lots of free time to write stuff, experiment with new recipes, and take walks with my honey &#x1F497;. Sometimes I slow travel; my most recent trips were to Spain and Myanmar.  
+
+Here I will share tips, insights, and updates on what I'm up to. 
 
 ---
 
 ### The Four Foundations of the Slacker Ethos
 
-1. Mindful spending
+1. **Mindful spending** is a fancy way of saying living cheaply. 
 
-A good practice is to spend money (and time) only on things you value and as little as possible on the things you don't.
+In this world that we live in, it costs money to merely exist and take up space (it's sad, but I didn't make the rules.) Freedom ain't free, as the saying goes.  
 
-The Big Three: housing, transport, and food tend to be life's biggest expenses. 
+Early on, most of us have to trade our time for money. RIP youth.
 
-During my job years I rented a reasonably-sized place, drove a used but reliable car, and learned to make food I enjoyed eating. Living this way has saved me countless time and energy.
+Since time is precious, and every dollar I spent on unnecessary things meant delaying my freedom that much longer.
 
-It took me many years to figure out what I did enjoy (slow travel), so that's where the majority of my spending goes now.
+Instead, during my job years, I rented a reasonably-sized place, drove a used car, and learned to cook for myself. What an uncluttered and unstressful way to live!
 
-2. Growing wealth through investing  
+2. **Investing consistently** has made me more money than I ever made working at my job. 
 
-I made a habit of consistently investing my savings. This has allowed me to quit my job after nine years.
+It may feel risky at first, but not investing is actually riskier, because of inflation (again, I didn't make the rules). 
 
-My investments have given me two things: a margin of safety and free time to do what I want.
+With some self-education, investing becomes an automatic process that takes very little effort. 
 
-Investing may feel risky at first, but not investing is actually riskier. 
-
-3. Funemployment - doing work that doesn't feel like work&trade; 
+3. **Funemployment** is doing work that doesn't feel like work. 
 
 It took me a long time to realize not all work is drudgery, and not all effort is unpleasant. 
 
-It's a luxury to be able to see work as something we choose to do, not something we have to do to survive. 
+What a luxury it is to be working for fun, instead of working to survive. 
 
-Right now, I'm focused on content creation, because it feels like making something from nothing, and I can do it on my own schedule. 
+The type of work I'm focused on is content creation. It's free, satisfying, and I can do it at my own pace. 
 
-4. Learning to enjoy the mundane moments 
+4. Learning to **enjoy the mundane moments**. 
 
 Much of our time is spent doing mundane and unavoidable tasks, like waiting in traffic or doing the laundry. 
 
 Instead of being in a rush, we can radiate feelings of friendliness into the present moment. 
 
-I don't consider myself a spiritual person (whatever that means), but I do believe we humans have the power to generate and sustain feelings of joy and peace, even in the face of boredom and discomfort. 
+I'm not a very spiritual person (whatever that means), but I believe we humans have the ability to generate and sustain feelings of joy and peace, even in the face of boredom and discomfort. 
+
+---
+
+The idea is to have very low expenses, more than enough money, and time to work on fun projects - all the while loving everything else in between. 
+
+I hope you, too, can find freedom and tranquility in such an approach. 
 
 ---
 
 ![Dhammapada](/dhammapada.jpg)
-
-I hope you, too, can find freedom and tranquility in such an approach. 
