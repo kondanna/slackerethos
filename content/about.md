@@ -13,8 +13,6 @@ By living like a student and investing as much as possible, I was able to quit m
 
 Nowadays I have lots of free time to write stuff, experiment with new recipes, and take walks with my honey &#x1F497;. Sometimes I slow travel; my most recent trips were to Spain and Myanmar.  
 
-Here I will share tips, insights, and updates on what I'm up to. 
-
 ---
 
 ### The Four Foundations of the Slacker Ethos
@@ -29,7 +27,7 @@ Since time is precious, and every dollar I spent on unnecessary things meant del
 
 Instead, during my job years, I rented a reasonably-sized place, drove a used car, and learned to cook for myself. What an uncluttered and unstressful way to live!
 
-2. **Investing consistently** has made me more money than I ever made working at my job. 
+2. **Investing consistently** can make you more money than you'll ever make working, so don't miss out! 
 
 It may feel risky at first, but not investing is actually riskier, because of inflation (again, I didn't make the rules). 
 
@@ -39,19 +37,21 @@ With some self-education, investing becomes an automatic process that takes very
 
 It took me a long time to realize not all work is drudgery, and not all effort is unpleasant. 
 
-What a luxury it is to be working for fun, instead of working to survive. 
+Is there a higher luxury than to be able to work for satisfaction, rather than for survival? #Goals, amirite?
 
 The type of work I'm focused on is content creation. It's free, satisfying, and I can do it at my own pace. 
 
-4. Learning to **enjoy the mundane moments**. 
+4. **Not taking things too seriously**, because life is not one magical moment after another, and it's unhealthy to expect it to be.
 
-Much of our time is spent doing mundane and unavoidable tasks, like waiting in traffic or doing the laundry. 
+This world is inherently unstable and insecure - one day our bodies will break down, our achievements will be forgotten, our loved ones will have departed. 
 
-Instead of being in a rush, we can radiate feelings of friendliness into the present moment. 
+That's a bummer, but it's all the more reason to maintain a lighthearted and unserious attitude. 
 
-I'm not a very spiritual person (whatever that means), but I believe we humans have the ability to generate and sustain feelings of joy and peace, even in the face of boredom and discomfort. 
+As for the mundane and boring moments (like when sitting in traffic or doing the dishes), instead of being in a rush, we can radiate feelings of friendliness into the present moment. 
 
 ---
+
+On this blog I will further expand on these points, as well as share tips, insights, and updates on what I'm up to. 
 
 The idea is to have very low expenses, more than enough money, and time to work on fun projects - all the while loving everything else in between. 
 
